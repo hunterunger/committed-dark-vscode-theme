@@ -1,0 +1,21 @@
+{
+    "name": "committed-dark",
+    "displayName": "Committed Dark",
+    "description": "I didn't like any of the themes, so I made my own",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Committed Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Committed Dark-color-theme.json"
+            }
+        ]
+    }
+}
