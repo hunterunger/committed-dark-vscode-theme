@@ -109,7 +109,7 @@
             "name": "punctuation.definition",
             "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -144,7 +144,7 @@
             "name": "inserted.diff",
             "scope": "markup.inserted.diff",
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -737,7 +737,7 @@
             "name": "Strings",
             "scope": "string",
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -900,14 +900,14 @@
             "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
             "scope": "markup.inline.raw.markdown",
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
             "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -1037,7 +1037,7 @@
             "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
             "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -1366,28 +1366,28 @@
             "name": "js template literals begin",
             "scope": ["keyword.other.template.begin"],
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
             "name": "js template literals end",
             "scope": ["keyword.other.template.end"],
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
             "name": "js template literals variable braces begin",
             "scope": ["keyword.other.substitution.begin"],
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
             "name": "js template literals variable braces end",
             "scope": ["keyword.other.substitution.end"],
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -1494,7 +1494,7 @@
             "name": "Ini Default Text",
             "scope": ["source.ini"],
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -1536,7 +1536,7 @@
             "name": "Groovy Inheritance",
             "scope": ["meta.definition.class.inherited.classes.groovy"],
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -1620,7 +1620,7 @@
             "name": "string",
             "scope": ["beginning.punctuation.definition.quote.markdown.xi"],
             "settings": {
-                "foreground": "#63ff5b"
+                "foreground": "#81ff7b"
             }
         },
         {
@@ -1841,8 +1841,8 @@
         "editor.hoverHighlightBackground": "#264f7840",
         "editor.wordHighlightStrongBackground": "#76d3fb50",
         "editor.wordHighlightBackground": "#575757b8",
-        "editor.lineHighlightBackground": "#ffffff0A",
-        "editor.lineHighlightBorder": "#28282899",
+        "editor.lineHighlightBackground": "#ffffff07",
+        "editor.lineHighlightBorder": "#00000000",
         "editorLineNumber.activeForeground": "#c6c6c6",
         "editorLink.activeForeground": "#4dc9ff",
         "editorIndentGuide.background": "#40404048",
@@ -1904,7 +1904,7 @@
         "breadcrumb.foreground": "#c0c0c2",
         "breadcrumb.focusForeground": "#ffffff00",
         "editorGroupHeader.border": "#ff000000",
-        "editorGroupHeader.tabsBackground": "#1d1f21",
+        "editorGroupHeader.tabsBackground": "#111113",
         "editorGroupHeader.tabsBorder": "#ff000000",
         "tab.activeForeground": "#ffffff",
         "tab.border": "#ffffff00",
