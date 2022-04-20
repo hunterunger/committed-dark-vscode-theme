@@ -1,5 +1,6 @@
 # Committed Dark vsCode theme
 
+![screenshot](./screenshot.png)
 
 ### Clone into your extentions folder:
 
